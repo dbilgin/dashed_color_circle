@@ -21,6 +21,6 @@ DashedColorCircle(
 ),
 ```
 
-![dashed_color_circle](https://user-images.githubusercontent.com/15243788/159189946-9a827a95-37bf-4f03-afc0-6c98fc7748b1.png)
+<img src="https://user-images.githubusercontent.com/15243788/159189946-9a827a95-37bf-4f03-afc0-6c98fc7748b1.png" width="300" />
 
 For more detailed examples you can check out the [example project](https://github.com/dbilgin/dashed_color_circle/tree/master/example).
