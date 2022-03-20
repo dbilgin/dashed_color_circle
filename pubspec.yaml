@@ -1,7 +1,7 @@
 name: dashed_color_circle
 description: A customizable dashed circle
 version: 0.0.1
-homepage:
+homepage: https://github.com/dbilgin/dashed_color_circle
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
